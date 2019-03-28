@@ -1,0 +1,19 @@
+E:\C# Dersleri\FTP Erişme\FTP Erişme\bin\Debug\FTP Erişme.exe.config
+E:\C# Dersleri\FTP Erişme\FTP Erişme\bin\Debug\FTP Erişme.exe
+E:\C# Dersleri\FTP Erişme\FTP Erişme\bin\Debug\FTP Erişme.pdb
+E:\C# Dersleri\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.csprojResolveAssemblyReference.cache
+E:\C# Dersleri\FTP Erişme\FTP Erişme\obj\Debug\FTP_Erişme.Form1.resources
+E:\C# Dersleri\FTP Erişme\FTP Erişme\obj\Debug\FTP_Erişme.Properties.Resources.resources
+E:\C# Dersleri\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.csproj.GenerateResource.Cache
+E:\C# Dersleri\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.exe
+E:\C# Dersleri\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.pdb
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\bin\Debug\FTP Erişme.exe.config
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\bin\Debug\FTP Erişme.exe
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\bin\Debug\FTP Erişme.pdb
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\obj\Debug\FTP_Erişme.Form1.resources
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\obj\Debug\FTP_Erişme.Properties.Resources.resources
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.exe
+C:\Users\Computer\Desktop\FTP Erişme\FTP Erişme\obj\Debug\FTP Erişme.pdb
